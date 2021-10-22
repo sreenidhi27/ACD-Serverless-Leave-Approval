@@ -1,6 +1,6 @@
 {
-    "CognitoUserPoolDomain":"laauthdomain",
-    "Region":"ap-south-1",
-    "S3BucketName":"la-website-hosting-bucket",
-    "StackName":"la-leave-application-stack"
+    "CognitoUserPoolDomain":"lappauthdomain",
+    "Region":"us-east-1",
+    "S3BucketName":"lapp-website-hosting-bucket",
+    "StackName":"lapp-leave-application-stack"
 }
